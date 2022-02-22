@@ -4,4 +4,3 @@ jupyterlab
 matplotlib
 numpy
 seaborn
-jupyterlab
