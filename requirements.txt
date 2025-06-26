@@ -1,7 +1,47 @@
-scipy
+# Core Data Science Stack
 pandas
-jupyterlab
-matplotlib
 numpy
+scipy
+matplotlib
 seaborn
 scikit-learn
+statsmodels
+jupyterlab
+notebook
+ipykernel
+tqdm
+pyyaml
+joblib
+plotly
+
+# Machine Learning / Deep Learning
+xgboost
+lightgbm
+torch
+torchvision
+torchaudio
+transformers
+datasets
+
+# LLM & Prompt Engineering
+langchain
+openai
+
+# Cloud / I/O
+boto3
+s3fs
+
+# Utils
+requests
+python-dotenv
+rich
+
+# misc
+playwright
+simpy
+pyomo
+
+
+# Optional Interactive & Dashboarding
+streamlit
+gradio
