@@ -13,6 +13,8 @@ tqdm
 pyyaml
 joblib
 plotly
+openpyxl
+
 
 # Machine Learning / Deep Learning
 xgboost
@@ -40,6 +42,8 @@ rich
 playwright
 simpy
 pyomo
+pygame
+salabim
 
 
 # Optional Interactive & Dashboarding
